@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542167600 source:c:\users\administrator\desktop\学生成绩管理系统v5.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542168505 source:c:\users\tuohuang\desktop\学生成绩管理系统v5.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
